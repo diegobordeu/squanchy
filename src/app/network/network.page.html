@@ -15,14 +15,11 @@
       <ion-label>Redes</ion-label>
     </ion-list-header> -->
     <div class="" *ngFor="let place_id of keys">
-      <ion-button expand="block" color="light" slot="start" (click)="showNetworkInfo(networkDevicesData[place_id])">
+      <ion-button expand="block" color="light" slot="start" (click)="showNetworkInfo(networkDevicesData[place_id])" *ngIf="!networkDevicesData[place_id].info.showNetworkInfo">
         <ion-grid no-padding>
           <ion-row>
-            <ion-col size="1">  
-              <ion-icon color="medium" name="wifi"></ion-icon>
-            </ion-col>
-            <ion-col size="6" class="ion-text-start">
-              <ion-text style="font-size: 15px">
+            <ion-col size="7" class="ion-text-start">
+              <ion-text style="font-size: 12px">
                 {{networkDevicesData[place_id].info.name}}
               </ion-text>
             </ion-col>
@@ -41,12 +38,89 @@
           </ion-row>
         </ion-grid>
       </ion-button>
-      <ion-card *ngIf="networkDevicesData[place_id].info.showNetworkInfo">
-        pppp
+      <ion-card class="welcome-card" *ngIf="networkDevicesData[place_id].info.showNetworkInfo">
+        <ion-card-header>
+
+
+          <ion-card-subtitle>
+            <ion-grid no-padding>
+              <ion-row>
+                <ion-col class="ion-text-start">
+                  <ion-text style="font-size: 20px">
+                    {{networkDevicesData[place_id].info.name}}
+                  </ion-text>
+                </ion-col>
+              </ion-row>
+            </ion-grid>
+          </ion-card-subtitle>
+
+          <ion-card-title (click)="showNetworkInfo(networkDevicesData[place_id])">
+            <ion-col>
+              <ion-icon name="arrow-round-up"></ion-icon>
+            </ion-col>
+            <ion-col>
+              <ion-text>{{countDevices(networkDevicesData[place_id].device).up}}</ion-text>
+            </ion-col>
+            <ion-col>
+              <ion-icon name="arrow-round-down"></ion-icon>
+            </ion-col>
+            <ion-col>
+              <ion-text>{{countDevices(networkDevicesData[place_id].device).down}}</ion-text>
+            </ion-col>
+          </ion-card-title>
+
+
+        </ion-card-header>
+        <ion-card-content>
+          <ion-list lines="full">
+            <ion-item>
+              <ion-row>
+                <ion-col>
+                  <ion-text>
+                    Descripcion
+                  </ion-text>
+                </ion-col>
+                <ion-col>
+                  <ion-text>
+                    IP
+                  </ion-text>
+                </ion-col>
+                <ion-col align-self-end>
+                  <ion-text>
+                    Estado
+                  </ion-text>
+                </ion-col>
+              </ion-row>
+            </ion-item>
+            <ion-grid no-padding>
+              <ion-item *ngFor="let device of networkDevicesData[place_id].device">
+                <ion-row>
+                  <ion-col>
+                    <ion-text style="font-size: 14px">
+                      {{device.friendly_name}}
+                    </ion-text>
+                  </ion-col>
+                  <ion-col>
+                    <ion-text style="font-size: 14px">
+                      {{device.ip}}
+                    </ion-text>
+                  </ion-col>
+                  <ion-col class="up_dot" *ngIf="device.is_up" align-self-end size="2">
+                    <ion-img src="/assets/up_dot.png"></ion-img>
+                  </ion-col>
+                  <ion-col class="down_dot" *ngIf="!device.is_up" align-self-end size="2">
+                    <ion-img src="/assets/down_dot.png"></ion-img>
+                  </ion-col>
+                </ion-row>
+              </ion-item>
+            </ion-grid>
+          </ion-list>
+        </ion-card-content>
       </ion-card>
     </div>
 
 
     <!-- </ion-item> -->
   </ion-list>
+
 </ion-content>

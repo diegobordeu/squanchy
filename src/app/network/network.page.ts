@@ -50,11 +50,11 @@ export class NetworkPage implements OnInit {
   public showNetworkInfo(network){
     if(!network.info.showNetworkInfo) {
       network.info.showNetworkInfo = true;
+    } else {
+      if(network.info.showNetworkInfo) {
+        network.info.showNetworkInfo = false;
+      }
     }
-    if(network.info.showNetworkInfo) {
-      network.info.showNetworkInfo = false;
-    }
-    console.log(network)
   }
 
   private async getNetworks() {
