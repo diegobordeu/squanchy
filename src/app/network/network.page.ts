@@ -10,6 +10,7 @@ export class NetworkPage implements OnInit {
   private MV_API_PLACES_NAME_ROUTE = 'https://www.accionet.net/api/v1/places/all/names';
   public networkDevicesData;
   public networkExtraInfo;
+  public isDataReady;
   public test = [1, 2, 3, 4];
   public keys;
 
@@ -27,6 +28,7 @@ export class NetworkPage implements OnInit {
     this.networkExtraInfo = await this.getNetworksNames();
     mergeNetworkInfo(this.networkDevicesData, this.networkExtraInfo);
     this.keys = Object.keys(this.networkDevicesData);
+    this.isDataReady = true;
     return;
   }
 
@@ -43,6 +45,16 @@ export class NetworkPage implements OnInit {
       }
     }
     return { up, down, total}
+  }
+
+  public showNetworkInfo(network){
+    if(!network.info.showNetworkInfo) {
+      network.info.showNetworkInfo = true;
+    }
+    if(network.info.showNetworkInfo) {
+      network.info.showNetworkInfo = false;
+    }
+    console.log(network)
   }
 
   private async getNetworks() {
