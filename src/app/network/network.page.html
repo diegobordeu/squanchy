@@ -39,9 +39,7 @@
         </ion-grid>
       </ion-button>
       <ion-card class="welcome-card" *ngIf="networkDevicesData[place_id].info.showNetworkInfo">
-        <ion-card-header>
-
-
+        <ion-card-header (click)="showNetworkInfo(networkDevicesData[place_id])">
           <ion-card-subtitle>
             <ion-grid no-padding>
               <ion-row>
@@ -54,7 +52,7 @@
             </ion-grid>
           </ion-card-subtitle>
 
-          <ion-card-title (click)="showNetworkInfo(networkDevicesData[place_id])">
+          <ion-card-title>
             <ion-col>
               <ion-icon name="arrow-round-up"></ion-icon>
             </ion-col>
