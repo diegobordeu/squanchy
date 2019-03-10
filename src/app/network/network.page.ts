@@ -8,7 +8,7 @@ import { HttpClient, HttpParams } from '@angular/common/http';
 })
 export class NetworkPage implements OnInit {
   private MV_API_PLACES_NAME_ROUTE = 'https://www.accionet.net/api/v1/places/all/names';
-    private BACKEND_URL = 'http://localhost:3000';
+  private BACKEND_URL = 'https://mrmeeseek.herokuapp.com';
   public networkDevicesData;
   public networkExtraInfo;
   public isDataReady;
@@ -17,22 +17,7 @@ export class NetworkPage implements OnInit {
 
   constructor(private http: HttpClient) { }
 
-  public registerCredentials = {
-    username: 'accionet',
-    password: 'hermanowifi'
-  };
 
-  public async doLogin(){
-    // const login = this.http.get(`${this.BACKEND_URL}/login`).toPromise();
-    // console.log(login);
-    let params = new HttpParams();
-    params = params.append('username', this.registerCredentials.username);
-    params = params.append('password', this.registerCredentials.password);
-
-    const response = await this.http.post(`${this.BACKEND_URL}/login`, {} ,{params}).toPromise();
-    console.log(response);
-    return;
-  }
 
   ngOnInit() {
     this.start().then(() => {
@@ -76,7 +61,7 @@ export class NetworkPage implements OnInit {
   }
 
   private async getNetworks() {
-    const data: any = await this.http.get('http://localhost:3000/api/network_device/find').toPromise();
+    const data: any = await this.http.get(`${this.BACKEND_URL}/api/network_device/find`).toPromise();
     return parseDataNetworkDevice(data.data);
   }
 
