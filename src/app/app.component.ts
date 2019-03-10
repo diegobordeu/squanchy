@@ -16,19 +16,14 @@ export class AppComponent {
       icon: 'home'
     },
     {
-      title: 'List',
-      url: '/list',
-      icon: 'list'
-    },
-    {
-      title: 'Network',
+      title: 'Redes',
       url: '/network',
       icon: 'wifi'
     },
     {
       title: 'Login',
       url: '/login',
-      icon: 'login',
+      icon: 'cloud-outline',
     }
   ];
 

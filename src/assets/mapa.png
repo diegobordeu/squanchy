@@ -1,0 +1,863 @@
+<!DOCTYPE html>
+<!-- saved from url=(0020)https://accionet.cl/ -->
+<html class="avada-html-layout-wide applicationcache geolocation history postmessage websockets localstorage sessionstorage websqldatabase webworkers hashchange audio canvas canvastext video webgl cssgradients multiplebgs opacity rgba inlinesvg hsla supports svgclippaths smil no-touchevents fontface generatedcontent textshadow cssanimations backgroundsize borderimage borderradius boxshadow flexbox cssreflections csstransforms csstransforms3d csstransitions ua-windows_nt ua-windows_nt-10 ua-windows_nt-10-0 ua-chrome ua-chrome-72 ua-chrome-72-0 ua-chrome-72-0-3626 ua-chrome-72-0-3626-121 ua-desktop ua-desktop-windows ua-webkit ua-webkit-537 ua-webkit-537-36 js gr__accionet_cl" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# og: http://ogp.me/ns#" data-useragent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Accionet - Internet para todos</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v9.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Potenciamos espacios públicos y privados con redes de wifi inteligente. Creamos un canal de comunicación entre marcas y usuarios vía free wifi.">
+<link rel="canonical" href="https://accionet.cl/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Accionet - Internet para todos">
+<meta property="og:description" content="Potenciamos espacios públicos y privados con redes de wifi inteligente. Creamos un canal de comunicación entre marcas y usuarios vía free wifi.">
+<meta property="og:url" content="https://accionet.cl/">
+<meta property="og:site_name" content="Accionet">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="Potenciamos espacios públicos y privados con redes de wifi inteligente. Creamos un canal de comunicación entre marcas y usuarios vía free wifi.">
+<meta name="twitter:title" content="Accionet - Internet para todos">
+<script type="text/javascript" async="" src="./mapa_files/analytics.js.descarga"></script><script async="" src="./mapa_files/fbevents.js.descarga"></script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"WebSite","@id":"https:\/\/accionet.cl\/#website","url":"https:\/\/accionet.cl\/","name":"Accionet","potentialAction":{"@type":"SearchAction","target":"https:\/\/accionet.cl\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/accionet.cl\/","sameAs":["https:\/\/www.facebook.com\/accionet.cl\/","https:\/\/www.linkedin.com\/company\/accionet\/"],"@id":"https:\/\/accionet.cl\/#organization","name":"Accionet","logo":"https:\/\/accionet.cl\/wp-content\/uploads\/2017\/10\/accionet-logos-02-e1506970707377.jpg"}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel="dns-prefetch" href="https://fonts.googleapis.com/">
+<link rel="dns-prefetch" href="https://s.w.org/">
+<link rel="alternate" type="application/rss+xml" title="Accionet » Feed" href="https://accionet.cl/feed/">
+<link rel="alternate" type="application/rss+xml" title="Accionet » Comments Feed" href="https://accionet.cl/comments/feed/">
+<link rel="alternate" type="text/calendar" title="Accionet » iCal Feed" href="https://accionet.cl/events/?ical=1">
+					<link rel="shortcut icon" href="https://accionet.cl/wp-content/uploads/2018/01/favicon-16x16.png" type="image/x-icon">
+		
+					<!-- For iPhone -->
+			<link rel="apple-touch-icon" href="https://accionet.cl/wp-content/uploads/2018/01/apple-icon-57x57.png">
+		
+					<!-- For iPhone Retina display -->
+			<link rel="apple-touch-icon" sizes="114x114" href="https://accionet.cl/wp-content/uploads/2018/01/apple-icon-114x114.png">
+		
+					<!-- For iPad -->
+			<link rel="apple-touch-icon" sizes="72x72" href="https://accionet.cl/wp-content/uploads/2018/01/apple-icon-72x72.png">
+		
+					<!-- For iPad Retina display -->
+			<link rel="apple-touch-icon" sizes="144x144" href="https://accionet.cl/wp-content/uploads/2018/01/android-icon-144x144.png">
+				<link rel="alternate" type="application/rss+xml" title="Accionet » Home Comments Feed" href="https://accionet.cl/home-4/feed/">
+
+		<meta property="og:title" content="Home">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://accionet.cl/">
+		<meta property="og:site_name" content="Accionet">
+		<meta property="og:description" content="ACCIONET 
+Conectamos marcas y  clientes a través de Wifi. ¿Por qué Wifi? Porque creemos que el acceso a internet debe ser gratuito para el usuario y constituye una oportunidad para las marcas de transmitir su mensaje.
+El Wifi nos permite crear un canal de comunicación directo entre empresas, marcas o instituciones">
+
+									<meta property="og:image" content="https://accionet.cl/wp-content/uploads/2017/10/accionet-logos-01.png">
+									<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/accionet.cl\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.9"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="./mapa_files/wp-emoji-release.min.js.descarga" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="layerslider-css" href="./mapa_files/layerslider.css" type="text/css" media="all">
+<link rel="stylesheet" id="ls-google-fonts-css" href="./mapa_files/css" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="./mapa_files/styles.css" type="text/css" media="all">
+<link rel="stylesheet" id="rs-plugin-settings-css" href="./mapa_files/settings.css" type="text/css" media="all">
+<style id="rs-plugin-settings-inline-css" type="text/css">
+#rs-demo-id {}
+</style>
+<link rel="stylesheet" id="avada-stylesheet-css" href="./mapa_files/style.min.css" type="text/css" media="all">
+<!--[if lte IE 9]>
+<link rel='stylesheet' id='avada-IE-fontawesome-css'  href='https://accionet.cl/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/font-awesome.min.css?ver=5.7.2' type='text/css' media='all' />
+<![endif]-->
+<!--[if IE]>
+<link rel='stylesheet' id='avada-IE-css'  href='https://accionet.cl/wp-content/themes/Avada/assets/css/ie.min.css?ver=5.7.2' type='text/css' media='all' />
+<![endif]-->
+<link rel="stylesheet" id="fusion-dynamic-css-css" href="./mapa_files/b5788961df1aec0536f7c7112545834c.min.css" type="text/css" media="all">
+<script>if (document.location.protocol != "https:") {document.location = document.URL.replace(/^http:/i, "https:");}</script><script type="text/javascript">
+/* <![CDATA[ */
+var LS_Meta = {"v":"6.5.5"};
+/* ]]> */
+</script>
+<script type="text/javascript" data-cfasync="false" src="./mapa_files/greensock.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/jquery.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/jquery-migrate.min.js.descarga"></script>
+<script type="text/javascript" data-cfasync="false" src="./mapa_files/layerslider.kreaturamedia.jquery.js.descarga"></script>
+<script type="text/javascript" data-cfasync="false" src="./mapa_files/layerslider.transitions.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/jquery.themepunch.tools.min.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/jquery.themepunch.revolution.min.js.descarga"></script>
+<meta name="generator" content="Powered by LayerSlider 6.5.5 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress.">
+<!-- LayerSlider updates and docs at: https://layerslider.kreaturamedia.com -->
+<link rel="https://api.w.org/" href="https://accionet.cl/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://accionet.cl/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://accionet.cl/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.9.9">
+<link rel="shortlink" href="https://accionet.cl/">
+<link rel="alternate" type="application/json+oembed" href="https://accionet.cl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Faccionet.cl%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://accionet.cl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Faccionet.cl%2F&amp;format=xml">
+<meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://accionet.cl"><link rel="https://theeventscalendar.com/" href="https://accionet.cl/wp-json/tribe/events/v1/">		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<meta name="generator" content="Powered by Slider Revolution 5.4.5.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
+		<script type="text/javascript">function setREVStartSize(e){
+				try{ var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;					
+					if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+				}catch(d){console.log("Failure at Presize of Slider:"+d)}
+			};</script>
+
+		
+	<script type="text/javascript">
+		var doc = document.documentElement;
+		doc.setAttribute('data-useragent', navigator.userAgent);
+	</script>
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="./mapa_files/js"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-116045580-1');
+</script><!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '585317251840168');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=585317251840168&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code --><style type="text/css">/* Chart.js */
+@-webkit-keyframes chartjs-render-animation{from{opacity:0.99}to{opacity:1}}@keyframes chartjs-render-animation{from{opacity:0.99}to{opacity:1}}.chartjs-render-monitor{-webkit-animation:chartjs-render-animation 0.001s;animation:chartjs-render-animation 0.001s;}</style><style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style></head>
+
+<body data-rsssl="1" class="home page-template page-template-100-width page-template-100-width-php page page-id-11783 tribe-js fusion-image-hovers fusion-body ltr fusion-sticky-header no-tablet-sticky-header no-mobile-sticky-header no-mobile-slidingbar no-mobile-totop fusion-disable-outline mobile-logo-pos-left layout-wide-mode fusion-top-header menu-text-align-center mobile-menu-design-modern fusion-show-pagination-text fusion-header-layout-v1 avada-responsive avada-footer-fx-none fusion-search-form-classic fusion-avatar-square do-animate fusion-no-touch" data-gr-c-s-loaded="true" style="height: auto;">
+	<a class="skip-link screen-reader-text" href="https://accionet.cl/#content">Skip to content</a>
+				<div id="wrapper" class="" style="height: auto;">
+		<div id="home" style="position:relative;top:-1px;"></div>
+		
+			<header class="fusion-header-wrapper fusion-is-sticky" style="z-index: 5; height: 160px;">
+				<div class="fusion-header-v1 fusion-logo-left fusion-sticky-menu- fusion-sticky-logo-1 fusion-mobile-logo-1  fusion-mobile-menu-design-modern">
+					<div class="fusion-header-sticky-height" style="height: 160px; overflow: visible; display: block;"></div>
+<div class="fusion-header fusion-header-backface fusion-sticky-shadow" style="height: 160px; overflow: visible; top: 0px;">
+	<div class="fusion-row">
+					<div class="fusion-logo" data-margin-top="35px" data-margin-bottom="25px" data-margin-left="0px" data-margin-right="0px">
+			<a class="fusion-logo-link" href="https://accionet.cl/">
+
+						<!-- standard logo -->
+			<img src="./mapa_files/accionet-logos-01.png" srcset="https://accionet.cl/wp-content/uploads/2017/10/accionet-logos-01.png 1x" width="100" height="100" alt="Accionet Logo" retina_logo_url="" class="fusion-standard-logo">
+
+											<!-- mobile logo -->
+				<img src="./mapa_files/accionet-logos-02-1.png" srcset="https://accionet.cl/wp-content/uploads/2017/10/accionet-logos-02-1.png 1x" width="100" height="100" alt="Accionet Logo" retina_logo_url="" class="fusion-mobile-logo">
+			
+											<!-- sticky header logo -->
+				<img src="./mapa_files/accionet-logos-02-1.png" srcset="https://accionet.cl/wp-content/uploads/2017/10/accionet-logos-02-1.png 1x" width="100" height="100" alt="Accionet Logo" retina_logo_url="" class="fusion-sticky-logo">
+					</a>
+		</div>		<nav class="fusion-main-menu" aria-label="Main Menu"><ul id="menu-accionet-main-menu" class="fusion-menu"><li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-11783 current_page_item menu-item-18" data-item-id="18"><a href="https://accionet.cl/" class="fusion-bar-highlight" role="menuitem"><span class="menu-text">HOME</span></a></li><li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17" data-item-id="17"><a href="https://accionet.cl/comunicacion/" class="fusion-bar-highlight" role="menuitem"><span class="menu-text">COMUNICACIÓN</span></a></li><li id="menu-item-16" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-16 fusion-dropdown-menu" data-item-id="16" style=""><a href="https://accionet.cl/redes/" class="fusion-bar-highlight" role="menuitem" aria-haspopup="true"><span class="menu-text">NUESTRAS REDES</span></a><ul role="menu" class="sub-menu"><li id="menu-item-691" class="menu-item menu-item-type-post_type menu-item-object-avada_portfolio menu-item-691 fusion-dropdown-submenu"><a href="https://accionet.cl/portfolio-items/mercado-central/" class="fusion-bar-highlight" role="menuitem"><span>Mercado Central</span></a></li><li id="menu-item-693" class="menu-item menu-item-type-post_type menu-item-object-avada_portfolio menu-item-693 fusion-dropdown-submenu"><a href="https://accionet.cl/portfolio-items/parquearaucano/" class="fusion-bar-highlight" role="menuitem"><span>Parque Araucano</span></a></li><li id="menu-item-695" class="menu-item menu-item-type-post_type menu-item-object-avada_portfolio menu-item-695 fusion-dropdown-submenu"><a href="https://accionet.cl/portfolio-items/plazadearmasstgo/" class="fusion-bar-highlight" role="menuitem"><span>Plaza de Armas</span></a></li><li id="menu-item-12187" class="menu-item menu-item-type-post_type menu-item-object-avada_portfolio menu-item-12187 fusion-dropdown-submenu"><a href="https://accionet.cl/portfolio-items/mercado-central-2/" class="fusion-bar-highlight" role="menuitem"><span>Patio Bellavista</span></a></li><li id="menu-item-12188" class="menu-item menu-item-type-post_type menu-item-object-avada_portfolio menu-item-12188 fusion-dropdown-submenu"><a href="https://accionet.cl/portfolio-items/vinacousinomacul/" class="fusion-bar-highlight" role="menuitem"><span>Viña Cousiño Macul</span></a></li><li id="menu-item-12189" class="menu-item menu-item-type-post_type menu-item-object-avada_portfolio menu-item-12189 fusion-dropdown-submenu"><a href="https://accionet.cl/portfolio-items/lapiojera/" class="fusion-bar-highlight" role="menuitem"><span>La Piojera</span></a></li><li id="menu-item-12201" class="menu-item menu-item-type-post_type menu-item-object-avada_portfolio menu-item-12201 fusion-dropdown-submenu"><a href="https://accionet.cl/portfolio-items/lapiojera-2/" class="fusion-bar-highlight" role="menuitem"><span>Plaza de Bolsillo – Santa Isabel</span></a></li></ul></li><li id="menu-item-11779" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11779" data-item-id="11779"><a href="https://accionet.cl/blog/" class="fusion-bar-highlight" role="menuitem"><span class="menu-text">BLOG</span></a></li><li id="menu-item-12175" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12175 fusion-menu-item-button fusion-last-menu-item" data-item-id="12175"><a href="https://accionet.cl/anuncia/" class="fusion-bar-highlight" role="menuitem"><span class="menu-text fusion-button button-default button-medium">Anuncia en nuestras redes</span></a></li></ul></nav>	<div class="fusion-mobile-menu-icons">
+							<a href="https://accionet.cl/#" class="fusion-icon fusion-icon-bars" aria-label="Toggle mobile menu" aria-expanded="false" aria-controls="mobile-menu-accionet-main-menu"></a>
+		
+		
+		
+			</div>
+	
+<nav class="fusion-mobile-nav-holder fusion-mobile-menu-text-align-left" aria-label="Main Menu Mobile" style="display: none;"><ul id="mobile-menu-accionet-main-menu" class="fusion-menu"><li id="mobile-menu-item-18" class="fusion-mobile-nav-item fusion-mobile-current-nav-item" data-item-id="18" style=""><a href="https://accionet.cl/" class="fusion-bar-highlight" role="menuitem"><span class="menu-text">HOME</span></a></li><li id="mobile-menu-item-17" class="fusion-mobile-nav-item" data-item-id="17" style=""><a href="https://accionet.cl/comunicacion/" class="fusion-bar-highlight" role="menuitem"><span class="menu-text">COMUNICACIÓN</span></a></li><li id="mobile-menu-item-16" class="fusion-mobile-nav-item menu-item-has-children" data-item-id="16" style=""><a href="https://accionet.cl/redes/" class="fusion-bar-highlight" role="menuitem"><span class="menu-text">NUESTRAS REDES</span></a><button href="#" aria-label="Open Sub Menu" aria-expanded="false" class="fusion-open-submenu"></button><ul role="menu" class="sub-menu" style="display: none;"><li id="mobile-menu-item-691" class="fusion-mobile-nav-item" style=""><a href="https://accionet.cl/portfolio-items/mercado-central/" class="fusion-bar-highlight" role="menuitem"><span>Mercado Central</span></a></li><li id="mobile-menu-item-693" class="fusion-mobile-nav-item" style=""><a href="https://accionet.cl/portfolio-items/parquearaucano/" class="fusion-bar-highlight" role="menuitem"><span>Parque Araucano</span></a></li><li id="mobile-menu-item-695" class="fusion-mobile-nav-item" style=""><a href="https://accionet.cl/portfolio-items/plazadearmasstgo/" class="fusion-bar-highlight" role="menuitem"><span>Plaza de Armas</span></a></li><li id="mobile-menu-item-12187" class="fusion-mobile-nav-item" style=""><a href="https://accionet.cl/portfolio-items/mercado-central-2/" class="fusion-bar-highlight" role="menuitem"><span>Patio Bellavista</span></a></li><li id="mobile-menu-item-12188" class="fusion-mobile-nav-item" style=""><a href="https://accionet.cl/portfolio-items/vinacousinomacul/" class="fusion-bar-highlight" role="menuitem"><span>Viña Cousiño Macul</span></a></li><li id="mobile-menu-item-12189" class="fusion-mobile-nav-item" style=""><a href="https://accionet.cl/portfolio-items/lapiojera/" class="fusion-bar-highlight" role="menuitem"><span>La Piojera</span></a></li><li id="mobile-menu-item-12201" class="fusion-mobile-nav-item" style=""><a href="https://accionet.cl/portfolio-items/lapiojera-2/" class="fusion-bar-highlight" role="menuitem"><span>Plaza de Bolsillo – Santa Isabel</span></a></li></ul></li><li id="mobile-menu-item-11779" class="fusion-mobile-nav-item" data-item-id="11779" style=""><a href="https://accionet.cl/blog/" class="fusion-bar-highlight" role="menuitem"><span class="menu-text">BLOG</span></a></li><li id="mobile-menu-item-12175" class="fusion-mobile-nav-item" data-item-id="12175" style=""><a href="https://accionet.cl/anuncia/" class="fusion-bar-highlight" role="menuitem"><span class="menu-text">Anuncia en nuestras redes</span></a></li></ul></nav>
+
+					</div>
+</div>
+				</div>
+				<div class="fusion-clearfix"></div>
+			</header>
+					
+		
+		<div id="sliders-container">
+			<div id="fusion-slider-45" class="fusion-slider-container fusion-slider-11783" style="height: 920px; max-width: 100%; max-height: 920px;">
+	<style type="text/css" scoped="scoped">
+		#fusion-slider-45 .flex-direction-nav a {width:63px;height:63px;line-height:63px;font-size:25px;}	</style>
+	
+	<div class="tfs-slider flexslider main-flex" style="max-width: 100%; height: 920px; position: fixed; visibility: visible;" data-slider_width="100%" data-slider_height="400px" data-slider_content_width="" data-full_screen="1" data-parallax="1" data-nav_arrows="0" data-nav_box_width="63px" data-nav_box_height="63px" data-nav_arrow_size="25px" data-pagination_circles="0" data-autoplay="1" data-loop="0" data-animation="fade" data-slideshow_speed="7000" data-animation_speed="600" data-typo_sensitivity="1" data-typo_factor="1.5" data-slider_id="45" data-orderby="date" data-order="DESC" data-slider_indicator="" data-slider_indicator_color="#ffffff">
+		<ul class="slides" style="max-width: 100%; width: 100%;">
+															<li data-mute="yes" data-loop="yes" data-autoplay="yes" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 1; display: block; z-index: 2;" class="flex-active-slide">
+					<div class="slide-content-container slide-content-center" style="">
+						<div class="slide-content" style="margin-top: 0px; opacity: 1;">
+															<div class="heading ">
+									<div class="fusion-title-sc-wrapper" style="">
+										<div class="fusion-title title fusion-sep-none fusion-title-center fusion-title-size-two fusion-border-below-title" style="margin-top:0px;margin-bottom:0px;"><h2 class="title-heading-center" style="color: rgb(255, 255, 255); font-size: 72px; line-height: 86px;" data-inline-fontsize="true" data-inline-lineheight="true" data-fontsize="72" data-lineheight="86">Free Internet</h2></div>									</div>
+								</div>
+																						<div class="caption ">
+									<div class="fusion-title-sc-wrapper" style="">
+										<div class="fusion-title title fusion-sep-none fusion-title-center fusion-title-size-three fusion-border-below-title" style="margin-top:0px;margin-bottom:0px;"><h3 class="title-heading-center" style="color: rgb(255, 255, 255); font-size: 22px; line-height: 26px;" data-inline-fontsize="true" data-inline-lineheight="true" data-fontsize="22" data-lineheight="26">Revolucionando la conectividad a través de la comunicación y tecnología</h3></div>									</div>
+								</div>
+																						<div class="buttons">
+																												<div class="tfs-button-2"><div class="fusion-button-wrapper"><style type="text/css" scoped="scoped">.fusion-button.button-1 .fusion-button-text, .fusion-button.button-1 i {color:#ffffff;}.fusion-button.button-1 {border-width:2px;border-color:#ffffff;}.fusion-button.button-1 .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-1:hover .fusion-button-text, .fusion-button.button-1:hover i,.fusion-button.button-1:focus .fusion-button-text, .fusion-button.button-1:focus i,.fusion-button.button-1:active .fusion-button-text, .fusion-button.button-1:active{color:#ffffff;}.fusion-button.button-1:hover, .fusion-button.button-1:focus, .fusion-button.button-1:active{border-width:2px;border-color:#ffffff;}.fusion-button.button-1:hover .fusion-button-icon-divider, .fusion-button.button-1:hover .fusion-button-icon-divider, .fusion-button.button-1:active .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-1{background: none;}.fusion-button.button-1:hover,.button-1:focus,.fusion-button.button-1:active{background: none;}.fusion-button.button-1{width:auto;}</style><a class="fusion-button button-flat fusion-button-square button-large button-custom button-1" target="_self" href="https://accionet.cl/anuncia/"><span class="fusion-button-text">CONTÁCTANOS</span></a></div></div>
+																	</div>
+													</div>
+					</div>
+																									<div class="background background-image" style="background-image: url(&quot;https://accionet.cl/wp-content/uploads/2016/08/half-length-of-young-handsome-caucasian-brown-PBT9KVE-copia_2.jpg&quot;); max-width: 100%; height: 920px; width: 100%;" data-imgwidth="1618">
+																																				</div>
+				</li>
+					</ul>
+	</div>
+</div>
+		</div>
+				
+		
+									
+				<main id="main" role="main" class="clearfix width-100" style="padding-left: 30px; padding-right: 30px; position: relative; z-index: 3;">
+			<div class="fusion-row" style="max-width:100%;">
+<section id="content" class="full-width">
+					<div id="post-11783" class="post-11783 page type-page status-publish hentry">
+			<span class="entry-title rich-snippet-hidden">Home</span><span class="vcard rich-snippet-hidden"><span class="fn"><a href="https://accionet.cl/author/santiagoaccionet-cl/" title="Posts by santiago@accionet.cl" rel="author">santiago@accionet.cl</a></span></span><span class="updated rich-snippet-hidden">2019-01-21T19:57:33+00:00</span>						<div class="post-content">
+				<div class="fusion-fullwidth fullwidth-box hundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-equal-height-columns" style="background-color: rgba(255,255,255,0);background-position: left top;background-repeat: no-repeat;border-top-width:0px;border-bottom-width:0px;border-color:#eae9e9;border-top-style:solid;border-bottom-style:solid;"><div class="fusion-builder-row fusion-row "><div class="fusion-layout-column fusion_builder_column fusion_builder_column_2_3  fusion-two-third fusion-column-first 2_3" style="margin-top:0px;margin-bottom:0px;">
+					<div class="fusion-column-wrapper" style="padding: 100px 10%; background-position: left top; background-repeat: no-repeat; background-size: cover; min-height: 486px; height: auto;" data-bg-url="">
+						<div class="fusion-column-content-centered" style="min-height: 486px; height: auto;"><div class="fusion-column-content"><div class="fusion-sep-clear"></div><div class="fusion-separator sep-single sep-solid" style="border-color:#607d8b;border-top-width:3px;margin-top:0px;margin-bottom:40px;width:100%;max-width:200px;"></div><div class="fusion-text"><h2 style="text-align: left;">ACCIONET</h2>
+</div><div class="fusion-text"><p class="font_8">Conectamos marcas y&nbsp; clientes a través de Wifi. ¿Por qué Wifi? Porque creemos que el acceso a internet debe ser gratuito para el usuario y constituye una oportunidad para las marcas de transmitir su mensaje.</p>
+<p class="font_8">El Wifi nos permite crear un canal de comunicación directo entre empresas, marcas o instituciones y usuarios. Nuestros servicios satisfacen las necesidades de una mayoría de usuarios que buscan estar conectados e informados, y la de una mayoría de empresas y marcas que necesitan comunicarse con sus clientes a través de internet.</p>
+</div><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:15px;"></div><div class="fusion-button-wrapper"><style type="text/css" scoped="scoped">.fusion-button.button-2 .fusion-button-text, .fusion-button.button-2 i {color:#ffffff;}.fusion-button.button-2 {border-width:0px;border-color:#ffffff;}.fusion-button.button-2 .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-2:hover .fusion-button-text, .fusion-button.button-2:hover i,.fusion-button.button-2:focus .fusion-button-text, .fusion-button.button-2:focus i,.fusion-button.button-2:active .fusion-button-text, .fusion-button.button-2:active{color:#ffffff;}.fusion-button.button-2:hover, .fusion-button.button-2:focus, .fusion-button.button-2:active{border-width:0px;border-color:#ffffff;}.fusion-button.button-2:hover .fusion-button-icon-divider, .fusion-button.button-2:hover .fusion-button-icon-divider, .fusion-button.button-2:active .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-2{width:auto;}</style><a class="fusion-button button-flat fusion-button-square button-large button-default button-2" target="_self" href="https://accionet.cl/comunicacion"><span class="fusion-button-text">Cómo lo hacemos?</span></a></div></div></div><div class="fusion-clearfix"></div>
+
+					</div>
+				</div><div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_3  fusion-one-third fusion-column-last 1_3" style="margin-top:0px;margin-bottom:0px;">
+					<div class="fusion-column-wrapper" style="padding: 100px 0px; background-image: url(&quot;https://accionet.cl/wp-content/uploads/2016/07/sudamerica.jpg&quot;); background-position: center center; background-repeat: no-repeat; background-size: cover; min-height: 486px; height: auto;" data-bg-url="https://accionet.cl/wp-content/uploads/2016/07/sudamerica.jpg">
+						<div class="fusion-column-content-centered" style="min-height: 486px; height: auto;"><div class="fusion-column-content"><div class="fusion-counters-box counters-box row fusion-clearfix fusion-columns-1"><div class="fusion-counter-box fusion-column col-counter-box counter-box-wrapper col-lg-12 col-md-12 col-sm-12" data-animationoffset="100%"><div class="counter-box-container" style="border: 1px solid rgba(224,222,222,0);"><div class="content-box-percentage content-box-counter" style="color:#ffffff;font-size:60px;line-height:normal;"><i class="counter-box-icon fontawesome-icon fa-wifi fas" style="font-size:45px;"></i><span class="display-counter" data-value="+620" data-delimiter="." data-direction="up" data-decimals="0">620</span><span class="unit">K</span></div><div class="counter-box-content" style="color:#ffffff;font-size:24px;">Cantidad de conexiones</div></div></div><div class="fusion-counter-box fusion-column col-counter-box counter-box-wrapper col-lg-12 col-md-12 col-sm-12" data-animationoffset="100%"><div class="counter-box-container" style="border: 1px solid rgba(224,222,222,0);"><div class="content-box-percentage content-box-counter" style="color:#ffffff;font-size:60px;line-height:normal;"><i class="counter-box-icon fontawesome-icon fa-user fas" style="font-size:45px;"></i><span class="display-counter" data-value="+300" data-delimiter="." data-direction="up" data-decimals="0">300</span><span class="unit">K</span></div><div class="counter-box-content" style="color:#ffffff;font-size:24px;">Horas de internet gratuito</div></div></div><div class="fusion-counter-box fusion-column col-counter-box counter-box-wrapper col-lg-12 col-md-12 col-sm-12" data-animationoffset="100%"><div class="counter-box-container" style="border: 1px solid rgba(224,222,222,0);"><div class="content-box-percentage content-box-counter" style="color:#ffffff;font-size:60px;line-height:normal;"><i class="counter-box-icon fontawesome-icon fa-location-arrow fas" style="font-size:45px;"></i><span class="display-counter" data-value="9" data-delimiter="." data-direction="up" data-decimals="0">9</span></div><div class="counter-box-content" style="color:#ffffff;font-size:24px;">Redes</div></div></div></div><div class="clearfix"></div></div></div><div class="fusion-clearfix"></div>
+
+					</div>
+				</div></div></div><div class="fusion-fullwidth fullwidth-box hundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: rgba(255,255,255,0);background-position: left top;background-repeat: no-repeat;padding-top:100px;padding-right:10%;padding-bottom:30px;padding-left:10%;border-top-width:0px;border-bottom-width:0px;border-color:#eae9e9;border-top-style:solid;border-bottom-style:solid;"><div class="fusion-builder-row fusion-row "><div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_6  fusion-one-sixth fusion-column-first fusion-no-small-visibility 1_6" style="margin-top:0px;margin-bottom:20px;width:13.3333%; margin-right: 4%;">
+					<div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url="">
+						<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:1px;"></div><div class="fusion-clearfix"></div>
+
+					</div>
+				</div><div class="fusion-layout-column fusion_builder_column fusion_builder_column_2_3  fusion-two-third 2_3" style="margin-top:0px;margin-bottom:20px;width:65.3333%; margin-right: 4%;">
+					<div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url="">
+						<div class="fusion-column-content-centered"><div class="fusion-column-content"><div class="fusion-text"><h2 style="text-align: center;">NUESTRAS REDES</h2>
+</div><div class="fusion-sep-clear"></div><div class="fusion-separator sep-single sep-solid" style="border-color:#607d8b;border-top-width:3px;margin-left: auto;margin-right: auto;margin-top:0px;margin-bottom:40px;width:100%;max-width:200px;"></div><div class="fusion-text"><p style="text-align: center; font-size: 24px; font-weight: 300;">Hoy contamos con 7 redes en Santiago de Chile,&nbsp;muy pronto en regiones</p>
+</div><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:20px;"></div></div></div><div class="fusion-clearfix"></div>
+
+					</div>
+				</div><div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_6  fusion-one-sixth fusion-column-last fusion-no-small-visibility 1_6" style="margin-top:0px;margin-bottom:20px;width:13.3333%">
+					<div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url="">
+						<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:1px;"></div><div class="fusion-clearfix"></div>
+
+					</div>
+				</div><div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_1  fusion-one-full fusion-column-first fusion-column-last 1_1" style="margin-top:30px;margin-bottom:20px;">
+					<div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url="">
+						<div class="fusion-recent-works fusion-portfolio-element fusion-portfolio fusion-portfolio-1 fusion-portfolio-grid fusion-portfolio-paging-none fusion-portfolio-four fusion-portfolio-no_text fusion-portfolio-rollover" data-id="-rw-1" data-columns="four"><style type="text/css">.fusion-portfolio-1 .fusion-portfolio-wrapper .fusion-col-spacing{padding:15px;}</style><div class="fusion-portfolio-wrapper" id="fusion-portfolio-1" data-picturesize="fixed" data-pages="1" style="margin: -15px; position: relative; height: 488px;"><article id="portfolio-1-post-12190" class="fusion-portfolio-post cat2 fusion-col-spacing post-12190" style="position: absolute; left: 0px; top: 0px;"><div class="fusion-portfolio-content-wrapper" style="border: none; opacity: 1;"><span class="entry-title rich-snippet-hidden">PLAZA DE BOLSILLO SANTA ISABEL</span><span class="vcard rich-snippet-hidden"><span class="fn"><a href="https://accionet.cl/author/santiagoaccionet-cl/" title="Posts by santiago@accionet.cl" rel="author">santiago@accionet.cl</a></span></span><span class="updated rich-snippet-hidden">2018-10-04T18:42:12+00:00</span>
+
+<div class="fusion-image-wrapper fusion-image-size-fixed" aria-haspopup="true">
+	
+	
+		
+					<img width="300" height="214" src="./mapa_files/a_uno_908579-730x350-300x214.jpg" class="attachment-portfolio-three size-portfolio-three wp-post-image" alt="">
+	
+
+		<div class="fusion-rollover">
+	<div class="fusion-rollover-content">
+
+				
+				
+												<h4 class="fusion-rollover-title">
+					<a href="https://accionet.cl/portfolio-items/lapiojera-2/?portfolioCats=14">
+						PLAZA DE BOLSILLO SANTA ISABEL					</a>
+				</h4>
+			
+								
+		
+				<a class="fusion-link-wrapper" href="https://accionet.cl/portfolio-items/lapiojera-2/?portfolioCats=14" aria-label="PLAZA DE BOLSILLO SANTA ISABEL"></a>
+	</div>
+</div>
+
+	
+</div>
+</div></article><article id="portfolio-1-post-12183" class="fusion-portfolio-post cat2 fusion-col-spacing post-12183" style="position: absolute; left: 391px; top: 0px;"><div class="fusion-portfolio-content-wrapper" style="border: none; opacity: 1;"><span class="entry-title rich-snippet-hidden">LA PIOJERA</span><span class="vcard rich-snippet-hidden"><span class="fn"><a href="https://accionet.cl/author/santiagoaccionet-cl/" title="Posts by santiago@accionet.cl" rel="author">santiago@accionet.cl</a></span></span><span class="updated rich-snippet-hidden">2018-10-04T20:06:03+00:00</span>
+
+<div class="fusion-image-wrapper fusion-image-size-fixed" aria-haspopup="true">
+	
+	
+		
+					<img width="300" height="214" src="./mapa_files/la_piojera_690-300x214.jpg" class="attachment-portfolio-three size-portfolio-three wp-post-image" alt="">
+	
+
+		<div class="fusion-rollover">
+	<div class="fusion-rollover-content">
+
+				
+				
+												<h4 class="fusion-rollover-title">
+					<a href="https://accionet.cl/portfolio-items/lapiojera/?portfolioCats=14">
+						LA PIOJERA					</a>
+				</h4>
+			
+								
+		
+				<a class="fusion-link-wrapper" href="https://accionet.cl/portfolio-items/lapiojera/?portfolioCats=14" aria-label="LA PIOJERA"></a>
+	</div>
+</div>
+
+	
+</div>
+</div></article><article id="portfolio-1-post-12131" class="fusion-portfolio-post cat2 fusion-col-spacing post-12131" style="position: absolute; left: 782px; top: 0px;"><div class="fusion-portfolio-content-wrapper" style="border: none; opacity: 1;"><span class="entry-title rich-snippet-hidden">PATIO BELLAVISTA</span><span class="vcard rich-snippet-hidden"><span class="fn"><a href="https://accionet.cl/author/santiagoaccionet-cl/" title="Posts by santiago@accionet.cl" rel="author">santiago@accionet.cl</a></span></span><span class="updated rich-snippet-hidden">2018-10-04T19:59:12+00:00</span>
+
+<div class="fusion-image-wrapper fusion-image-size-fixed" aria-haspopup="true">
+	
+	
+		
+					<img width="300" height="214" src="./mapa_files/Patio-Bellavista-Santiago-Chile-300x214.jpg" class="attachment-portfolio-three size-portfolio-three wp-post-image" alt="">
+	
+
+		<div class="fusion-rollover">
+	<div class="fusion-rollover-content">
+
+				
+				
+												<h4 class="fusion-rollover-title">
+					<a href="https://accionet.cl/portfolio-items/mercado-central-2/?portfolioCats=14">
+						PATIO BELLAVISTA					</a>
+				</h4>
+			
+								
+		
+				<a class="fusion-link-wrapper" href="https://accionet.cl/portfolio-items/mercado-central-2/?portfolioCats=14" aria-label="PATIO BELLAVISTA"></a>
+	</div>
+</div>
+
+	
+</div>
+</div></article><article id="portfolio-1-post-12096" class="fusion-portfolio-post cat2 fusion-col-spacing post-12096" style="position: absolute; left: 1173px; top: 0px;"><div class="fusion-portfolio-content-wrapper" style="border: none; opacity: 1;"><span class="entry-title rich-snippet-hidden">VIÑA COUSIÑO MACUL</span><span class="vcard rich-snippet-hidden"><span class="fn"><a href="https://accionet.cl/author/santiagoaccionet-cl/" title="Posts by santiago@accionet.cl" rel="author">santiago@accionet.cl</a></span></span><span class="updated rich-snippet-hidden">2018-10-04T20:02:25+00:00</span>
+
+<div class="fusion-image-wrapper fusion-image-size-fixed" aria-haspopup="true">
+	
+	
+		
+					<img width="300" height="214" src="./mapa_files/Captura-de-pantalla-2017-08-24-a-las-12.41.49-300x214.png" class="attachment-portfolio-three size-portfolio-three wp-post-image" alt="">
+	
+
+		<div class="fusion-rollover">
+	<div class="fusion-rollover-content">
+
+				
+				
+												<h4 class="fusion-rollover-title">
+					<a href="https://accionet.cl/portfolio-items/vinacousinomacul/?portfolioCats=14">
+						VIÑA COUSIÑO MACUL					</a>
+				</h4>
+			
+								
+		
+				<a class="fusion-link-wrapper" href="https://accionet.cl/portfolio-items/vinacousinomacul/?portfolioCats=14" aria-label="VIÑA COUSIÑO MACUL"></a>
+	</div>
+</div>
+
+	
+</div>
+</div></article><article id="portfolio-1-post-185" class="fusion-portfolio-post cat2 fusion-col-spacing post-185" style="position: absolute; left: 0px; top: 244px;"><div class="fusion-portfolio-content-wrapper" style="border: none; opacity: 1;"><span class="entry-title rich-snippet-hidden">MERCADO CENTRAL</span><span class="vcard rich-snippet-hidden"><span class="fn"><a href="https://accionet.cl/author/santiagoaccionet-cl/" title="Posts by santiago@accionet.cl" rel="author">santiago@accionet.cl</a></span></span><span class="updated rich-snippet-hidden">2018-10-04T19:17:30+00:00</span>
+
+<div class="fusion-image-wrapper fusion-image-size-fixed" aria-haspopup="true">
+	
+	
+		
+					<img width="300" height="214" src="./mapa_files/1200px-Mercadocentral-2-300x214.jpg" class="attachment-portfolio-three size-portfolio-three wp-post-image" alt="">
+	
+
+		<div class="fusion-rollover">
+	<div class="fusion-rollover-content">
+
+				
+				
+												<h4 class="fusion-rollover-title">
+					<a href="https://accionet.cl/portfolio-items/mercado-central/?portfolioCats=14">
+						MERCADO CENTRAL					</a>
+				</h4>
+			
+								
+		
+				<a class="fusion-link-wrapper" href="https://accionet.cl/portfolio-items/mercado-central/?portfolioCats=14" aria-label="MERCADO CENTRAL"></a>
+	</div>
+</div>
+
+	
+</div>
+</div></article><article id="portfolio-1-post-97" class="fusion-portfolio-post cat2 fusion-col-spacing post-97" style="position: absolute; left: 391px; top: 244px;"><div class="fusion-portfolio-content-wrapper" style="border: none; opacity: 1;"><span class="entry-title rich-snippet-hidden">PARQUE ARAUCANO</span><span class="vcard rich-snippet-hidden"><span class="fn"><a href="https://accionet.cl/author/santiagoaccionet-cl/" title="Posts by santiago@accionet.cl" rel="author">santiago@accionet.cl</a></span></span><span class="updated rich-snippet-hidden">2018-10-04T19:38:18+00:00</span>
+
+<div class="fusion-image-wrapper fusion-image-size-fixed" aria-haspopup="true">
+	
+	
+		
+					<img width="300" height="214" src="./mapa_files/parque_araucano-1-300x214.jpg" class="attachment-portfolio-three size-portfolio-three wp-post-image" alt="">
+	
+
+		<div class="fusion-rollover">
+	<div class="fusion-rollover-content">
+
+				
+				
+												<h4 class="fusion-rollover-title">
+					<a href="https://accionet.cl/portfolio-items/parquearaucano/?portfolioCats=14">
+						PARQUE ARAUCANO					</a>
+				</h4>
+			
+								
+		
+				<a class="fusion-link-wrapper" href="https://accionet.cl/portfolio-items/parquearaucano/?portfolioCats=14" aria-label="PARQUE ARAUCANO"></a>
+	</div>
+</div>
+
+	
+</div>
+</div></article><article id="portfolio-1-post-92" class="fusion-portfolio-post cat2 fusion-col-spacing post-92" style="position: absolute; left: 782px; top: 244px;"><div class="fusion-portfolio-content-wrapper" style="border: none; opacity: 1;"><span class="entry-title rich-snippet-hidden">PLAZA DE ARMAS DE SANTIAGO</span><span class="vcard rich-snippet-hidden"><span class="fn"><a href="https://accionet.cl/author/santiagoaccionet-cl/" title="Posts by santiago@accionet.cl" rel="author">santiago@accionet.cl</a></span></span><span class="updated rich-snippet-hidden">2018-10-04T19:47:36+00:00</span>
+
+<div class="fusion-image-wrapper fusion-image-size-fixed" aria-haspopup="true">
+	
+	
+		
+					<img width="300" height="214" src="./mapa_files/chile002-300x214.jpg" class="attachment-portfolio-three size-portfolio-three wp-post-image" alt="">
+	
+
+		<div class="fusion-rollover">
+	<div class="fusion-rollover-content">
+
+				
+				
+												<h4 class="fusion-rollover-title">
+					<a href="https://accionet.cl/portfolio-items/plazadearmasstgo/?portfolioCats=14">
+						PLAZA DE ARMAS DE SANTIAGO					</a>
+				</h4>
+			
+								
+		
+				<a class="fusion-link-wrapper" href="https://accionet.cl/portfolio-items/plazadearmasstgo/?portfolioCats=14" aria-label="PLAZA DE ARMAS DE SANTIAGO"></a>
+	</div>
+</div>
+
+	
+</div>
+</div></article></div></div><div class="fusion-clearfix"></div>
+
+					</div>
+				</div></div></div><div class="fusion-fullwidth fullwidth-box hundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: #ed6967;background-position: left top;background-repeat: no-repeat;border-top-width:0px;border-bottom-width:0px;border-color:#eae9e9;border-top-style:solid;border-bottom-style:solid;"><div class="fusion-builder-row fusion-row "><div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_1  fusion-one-full fusion-column-first fusion-column-last fusion-column-no-min-height 1_1" style="margin-top:0px;margin-bottom:0px;">
+					<div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url="">
+						<div class="fusion-button-wrappercenter"><style type="text/css" scoped="scoped">.fusion-button.button-3 .fusion-button-text, .fusion-button.button-3 i {color:#ffffff;}.fusion-button.button-3 {border-width:0px;border-color:#ffffff;}.fusion-button.button-3 .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-3:hover .fusion-button-text, .fusion-button.button-3:hover i,.fusion-button.button-3:focus .fusion-button-text, .fusion-button.button-3:focus i,.fusion-button.button-3:active .fusion-button-text, .fusion-button.button-3:active{color:#ffffff;}.fusion-button.button-3:hover, .fusion-button.button-3:focus, .fusion-button.button-3:active{border-width:0px;border-color:#ffffff;}.fusion-button.button-3:hover .fusion-button-icon-divider, .fusion-button.button-3:hover .fusion-button-icon-divider, .fusion-button.button-3:active .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-3{background: #607d8b;}.fusion-button.button-3:hover,.button-3:focus,.fusion-button.button-3:active{background: #a0a0a0;}.fusion-button.button-3{width:100%;}</style><a class="fusion-button button-flat fusion-button-square button-xlarge button-custom button-3 customButton" target="_self" href="https://accionet.cl/causes/"><span class="fusion-button-text">Todas nuestra redes</span></a></div><div class="fusion-clearfix"></div>
+
+					</div>
+				</div></div></div><div class="fusion-bg-parallax" data-bg-align="center center" data-direction="up" data-mute="false" data-opacity="100" data-velocity="-0.6" data-mobile-enabled="false" data-break_parents="0" data-bg-image="https://accionet.cl/wp-content/uploads/2016/07/the-macro-view-of-clock-mechanism-PR7VF453_2.jpg" data-bg-repeat="false" data-bg-height="" data-bg-width="" style="display: none;"></div><div class="fusion-fullwidth fullwidth-box fusion-parallax-up nonhundred-percent-fullwidth non-hundred-percent-height-scrolling bg-parallax-parent" style="background-color: rgba(255, 255, 255, 0); background-image: none; background-position: center center; background-repeat: no-repeat; padding: 160px 10% 90px; border-top: 0px solid rgb(234, 233, 233); border-bottom: 0px solid rgb(234, 233, 233); border-right-color: rgb(234, 233, 233); border-left-color: rgb(234, 233, 233); background-size: cover; position: relative; overflow: hidden; z-index: 1;"><div class="parallax-inner" style="pointer-events: none; width: 1902.41px; height: 1515px; position: absolute; z-index: -1; top: 0px; left: 0px; opacity: 1; background-position: center center; background-repeat: no-repeat; background-size: cover; background-image: url(&quot;https://accionet.cl/wp-content/uploads/2016/07/the-macro-view-of-clock-mechanism-PR7VF453_2.jpg&quot;);"></div><div class="fusion-builder-row fusion-row "><div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_6  fusion-one-sixth fusion-column-first fusion-no-small-visibility 1_6" style="margin-top:0px;margin-bottom:20px;width:13.3333%; margin-right: 4%;">
+					<div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url="">
+						<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:;"></div><div class="fusion-clearfix"></div>
+
+					</div>
+				</div><div class="fusion-layout-column fusion_builder_column fusion_builder_column_2_3  fusion-two-third 2_3" style="margin-top:0px;margin-bottom:20px;width:65.3333%; margin-right: 4%;">
+					<div class="fusion-column-wrapper" style="padding: 20px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url="">
+						<div class="fusion-text"><h2 style="text-align: center; color: #fff;">SOLUCIÓN INTEGRAL</h2>
+</div><div class="fusion-sep-clear"></div><div class="fusion-separator sep-single sep-solid" style="border-color:#607d8b;border-top-width:3px;margin-left: auto;margin-right: auto;margin-top:0px;margin-bottom:40px;width:100%;max-width:200px;"></div><div class="fusion-text"><p style="text-align: center; font-size: 24px; color: #fff; font-weight: 300;">Conectividad abierta y comunicación directa.</p>
+</div><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:50px;"></div><div class="fusion-clearfix"></div>
+
+					</div>
+				</div><div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_6  fusion-one-sixth fusion-column-last fusion-no-small-visibility 1_6" style="margin-top:0px;margin-bottom:20px;width:13.3333%">
+					<div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url="">
+						<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:;"></div><div class="fusion-clearfix"></div>
+
+					</div>
+				</div><div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_1  fusion-one-full fusion-column-first fusion-column-last 1_1" style="margin-top:0px;margin-bottom:20px;">
+					<div class="fusion-column-wrapper" style="padding: 30px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url="">
+						<div class="fusion-content-boxes content-boxes columns row fusion-columns-3 fusion-columns-total-3 fusion-content-boxes-1 content-boxes-icon-on-top content-left" data-animationoffset="100%" style="margin-top:0px;margin-bottom:60px;"><style type="text/css" scoped="scoped">.fusion-content-boxes-1 .heading .content-box-heading {color:#ffffff;}
+					.fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover .heading .content-box-heading,
+					.fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover .heading .heading-link .content-box-heading,
+					.fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover .heading .content-box-heading,
+					.fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover .heading .heading-link .content-box-heading,
+					.fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover.link-area-box .fusion-read-more,
+					.fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover.link-area-box .fusion-read-more::after,
+					.fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover.link-area-box .fusion-read-more::before,
+					.fusion-content-boxes-1 .fusion-content-box-hover .fusion-read-more:hover:after,
+					.fusion-content-boxes-1 .fusion-content-box-hover .fusion-read-more:hover:before,
+					.fusion-content-boxes-1 .fusion-content-box-hover .fusion-read-more:hover,
+					.fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover.link-area-box .fusion-read-more,
+					.fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover.link-area-box .fusion-read-more::after,
+					.fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover.link-area-box .fusion-read-more::before,
+					.fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover .icon .circle-no,
+					.fusion-content-boxes-1 .heading .heading-link:hover .content-box-heading {
+						color: #ffffff;
+					}
+					.fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover .icon .circle-no {
+						color: #ffffff !important;
+					}.fusion-content-boxes-1 .fusion-content-box-hover .link-area-box.link-area-box-hover .fusion-content-box-button {background: #000000;color: #ffffff;}.fusion-content-boxes-1 .fusion-content-box-hover .link-area-box.link-area-box-hover .fusion-content-box-button .fusion-button-text {color: #ffffff;}
+					.fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover .heading .icon > span {
+						background-color: #ffffff !important;
+					}
+					.fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover .heading .icon > span {
+						border-color: #ffffff !important;
+					}</style><div class="fusion-column content-box-column content-box-column content-box-column-1 col-lg-4 col-md-4 col-sm-4 fusion-content-box-hover  content-box-column-first-in-row"><div class="col content-wrapper link-area-box link-type-button icon-hover-animation-fade" style="background-color:rgba(255,255,255,0);" data-link="https://accionet.cl/portfolio-items/clean-water/" data-link-target="_self" data-animationoffset="100%"><div class="heading heading-with-icon icon-left"><a class="heading-link" href="https://accionet.cl/portfolio-items/clean-water/" target="_self"><div class="icon"><i style="background-color:transparent;border-color:transparent;height:auto;width: 70px;line-height:normal;color:#ffffff;font-size:70px;" class="fontawesome-icon  fa fa-cogs circle-no"></i></div><h2 class="content-box-heading" style="font-size:23px;line-height:28px;">Infraestructura</h2></a></div><div class="fusion-clearfix"></div><div class="content-container" style="color:#ccd0d1;">
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:10px;"></div>
+<p>Contamos con equipos de hardware y software, evaluamos factibilidad técnica e instalamos la red con un equipo de expertos.</p>
+</div></div></div><div class="fusion-column content-box-column content-box-column content-box-column-2 col-lg-4 col-md-4 col-sm-4 fusion-content-box-hover "><div class="col content-wrapper link-area-box icon-hover-animation-fade" style="background-color:rgba(255,255,255,0);" data-animationoffset="100%"><div class="heading heading-with-icon icon-left"><div class="icon"><i style="background-color:transparent;border-color:transparent;height:auto;width: 70px;line-height:normal;color:#ffffff;font-size:70px;" class="fontawesome-icon  fa fa-commenting-o circle-no"></i></div><h2 class="content-box-heading" style="font-size:23px;line-height:28px;">Portal </h2></div><div class="fusion-clearfix"></div><div class="content-container" style="color:#ccd0d1;">
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:10px;"></div>
+<p>Desarrollamos portales cautivos, desplegados previo a la conexión de internet funcionan como un canal de comunicación flexible, directo y personalizado.</p>
+</div></div></div><div class="fusion-column content-box-column content-box-column content-box-column-3 col-lg-4 col-md-4 col-sm-4 fusion-content-box-hover  content-box-column-last"><div class="col content-wrapper link-area-box icon-hover-animation-fade" style="background-color:rgba(255,255,255,0);" data-animationoffset="100%"><div class="heading heading-with-icon icon-left"><div class="icon"><i style="background-color:transparent;border-color:transparent;height:auto;width: 70px;line-height:normal;color:#ffffff;font-size:70px;" class="fontawesome-icon  fa fa-line-chart circle-no"></i></div><h2 class="content-box-heading" style="font-size:23px;line-height:28px;">Métricas e inteligencia</h2></div><div class="fusion-clearfix"></div><div class="content-container" style="color:#ccd0d1;">
+<div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:10px;"></div>
+<p>Basado en las métricas generadas por nuestros canales de comunicación generamos una estrategia de marketing consistente con el perfilamiento de usuarios.</p>
+</div></div></div><style type="text/css" scoped="scoped">
+						.fusion-content-boxes-1 .fusion-content-box-hover .heading-link:hover .icon i.circle-yes,
+						.fusion-content-boxes-1 .fusion-content-box-hover .link-area-box:hover .heading-link .icon i.circle-yes,
+						.fusion-content-boxes-1 .fusion-content-box-hover .link-area-link-icon-hover .heading .icon i.circle-yes,
+						.fusion-content-boxes-1 .fusion-content-box-hover .link-area-box-hover .heading .icon i.circle-yes {
+							background-color: #ffffff !important;
+							border-color: #ffffff !important;
+						}</style><div class="fusion-clearfix"></div></div><div class="fusion-clearfix"></div>
+
+					</div>
+				</div></div></div><div class="fusion-fullwidth fullwidth-box nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: #f5f5f5;background-position: center center;background-repeat: no-repeat;padding-top:100px;padding-right:30px;padding-bottom:0px;padding-left:30px;border-top-width:0px;border-bottom-width:0px;border-color:#eae9e9;border-top-style:solid;border-bottom-style:solid;"><div class="fusion-builder-row fusion-row "><div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_2  fusion-one-half fusion-column-first 1_2" style="margin-top:0px;margin-bottom:20px;width:48%; margin-right: 4%;">
+					<div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url="">
+						<div class="fusion-blog-shortcode fusion-blog-shortcode-1 fusion-blog-archive fusion-blog-layout-grid-wrapper fusion-blog-no fusion-no-col-space"><style type="text/css">.fusion-blog-shortcode-1 .fusion-blog-layout-grid .fusion-post-grid{padding:0px;}.fusion-blog-shortcode-1 .fusion-posts-container{margin-left: -0px !important; margin-right:-0px !important;}</style><div class="fusion-posts-container fusion-posts-container-no fusion-no-meta-info fusion-blog-rollover fusion-blog-layout-grid fusion-blog-layout-grid-1 isotope" data-pages="3" data-grid-col-space="0.0" style="margin: 0px; position: relative; height: 167px;"><article id="blog-1-post-12057" class="fusion-post-grid post-12057 post type-post status-publish format-standard hentry category-uncategorized" style="position: absolute; left: 0px; top: 0px;">
+<div class="fusion-post-wrapper" style="background-color:rgba(255,255,255,0);border:1px solid #ebeaea;border-bottom-width:3px;">
+
+<div class="fusion-post-content-wrapper" style="padding:30px 25px 20px 25px;"><div class="fusion-post-content post-content"><h2 class="blog-shortcode-post-title entry-title"><a href="https://accionet.cl/2017/12/19/debuta-wifi-gratis-en-mercado-central/">Debuta Wifi gratis en Mercado Central</a></h2><div class="fusion-post-content-container"><p>https://www.df.cl/noticias/empresas/telecom-tecnologia/debuta-wifi-gratis-en-mercado-central/2017-08-14/212021.html</p></div></div></div><div class="fusion-clearfix"></div></div>
+</article>
+<div class="fusion-clearfix"></div></div></div><div class="fusion-clearfix"></div>
+
+					</div>
+				</div><div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_2  fusion-one-half fusion-column-last 1_2" style="margin-top:0px;margin-bottom:20px;width:48%">
+					<div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url="">
+						<div class="fusion-recent-posts fusion-recent-posts-1 avada-container layout-thumbnails-on-side layout-columns-1"><section class="fusion-columns columns fusion-columns-1 columns-1"><article class="post fusion-column column col col-lg-12 col-md-12 col-sm-12"><div class="fusion-flexslider flexslider floated-slideshow flexslider-hover-type-liftup"><ul class="slides"><li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 1; display: block; z-index: 2;" class="flex-active-slide"><a href="https://accionet.cl/2017/11/14/11993/" class="hover-type-liftup" aria-label="Mercado Central ya cuenta con red gratuita de Wifi"><img src="./mapa_files/Captura-de-pantalla-2017-11-14-a-las-15.43.29-177x142.png" alt="" draggable="false"></a></li></ul><ol class="flex-control-nav flex-control-paging"></ol><ul class="flex-direction-nav"><li class="flex-nav-prev"><a class="flex-prev flex-disabled" href="https://accionet.cl/#" tabindex="-1"></a></li><li class="flex-nav-next"><a class="flex-next flex-disabled" href="https://accionet.cl/#" tabindex="-1"></a></li></ul></div><div class="recent-posts-content"><span class="vcard" style="display: none;"><span class="fn"><a href="https://accionet.cl/author/santiagoaccionet-cl/" title="Posts by santiago@accionet.cl" rel="author">santiago@accionet.cl</a></span></span><span class="updated" style="display:none;">2017-12-19T11:08:07+00:00</span><h4 class="entry-title"><a href="https://accionet.cl/2017/11/14/11993/">Mercado Central ya cuenta con red gratuita de Wifi</a></h4><p>&nbsp; http://www.latercera.com/noticia/mercado-central-ya-cuenta-red-gratuita-wifi/ &nbsp;</p></div></article><article class="post fusion-column column col col-lg-12 col-md-12 col-sm-12"><div class="fusion-flexslider flexslider floated-slideshow flexslider-hover-type-liftup"><ul class="slides"><li style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 1; display: block; z-index: 2;" class="flex-active-slide"><a href="https://accionet.cl/2017/06/30/hoyxhoymc/" class="hover-type-liftup" aria-label="Prensa: nota de hoyxhoy sobre red de Accionet en Mercado Central"><img src="./mapa_files/16_08_17_pag_04-1440-c2e86a-177x142.jpg" alt="" draggable="false"></a></li></ul><ol class="flex-control-nav flex-control-paging"></ol><ul class="flex-direction-nav"><li class="flex-nav-prev"><a class="flex-prev flex-disabled" href="https://accionet.cl/#" tabindex="-1"></a></li><li class="flex-nav-next"><a class="flex-next flex-disabled" href="https://accionet.cl/#" tabindex="-1"></a></li></ul></div><div class="recent-posts-content"><span class="vcard" style="display: none;"><span class="fn"><a href="https://accionet.cl/author/santiagoaccionet-cl/" title="Posts by santiago@accionet.cl" rel="author">santiago@accionet.cl</a></span></span><span class="updated" style="display:none;">2017-10-04T15:22:43+00:00</span><h4 class="entry-title"><a href="https://accionet.cl/2017/06/30/hoyxhoymc/">Prensa: nota de hoyxhoy sobre red de Accionet en Mercado Central</a></h4><p>  &nbsp;Prensa: nota de hoyxhoy sobre red de Accionet en Mercado Central  </p></div></article></section></div><div class="fusion-clearfix"></div>
+
+					</div>
+				</div></div></div><div class="fusion-fullwidth fullwidth-box nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: #f5f5f5;background-position: left top;background-repeat: no-repeat;padding-top:0px;padding-right:30px;padding-bottom:100px;padding-left:30px;border-top-width:0px;border-bottom-width:0px;border-color:#eae9e9;border-top-style:solid;border-bottom-style:solid;"><div class="fusion-builder-row fusion-row "><div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_1  fusion-one-full fusion-column-first fusion-column-last 1_1" style="margin-top:0px;margin-bottom:20px;">
+					<div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url="">
+						<div class="fusion-column-content-centered"><div class="fusion-column-content"><div class="fusion-text"><h2 style="text-align: center;">NOTICIAS</h2>
+</div><div class="fusion-sep-clear"></div><div class="fusion-separator sep-single sep-solid" style="border-color:#607d8b;border-top-width:3px;margin-left: auto;margin-right: auto;margin-top:0px;margin-bottom:40px;width:100%;max-width:200px;"></div><div class="fusion-sep-clear"></div><div class="fusion-separator fusion-full-width-sep sep-none" style="margin-left: auto;margin-right: auto;margin-top:50px;"></div><div class="fusion-text"><p style="font-size: 24px; text-align: center; font-weight: 300;"><i>Acercando marcas y usuarios</i></p>
+</div></div></div><div class="fusion-clearfix"></div>
+
+					</div>
+				</div><div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_1  fusion-one-full fusion-column-first fusion-column-last fusion-column-no-min-height 1_1" style="margin-top:0px;margin-bottom:0px;">
+					<div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url="">
+						<div class="fusion-column-content-centered"><div class="fusion-column-content"><div class="fusion-button-wrappercenter"><style type="text/css" scoped="scoped">.fusion-button.button-4 .fusion-button-text, .fusion-button.button-4 i {color:#f5f5f5;}.fusion-button.button-4 {border-width:0px;border-color:#f5f5f5;}.fusion-button.button-4 .fusion-button-icon-divider{border-color:#f5f5f5;}.fusion-button.button-4:hover .fusion-button-text, .fusion-button.button-4:hover i,.fusion-button.button-4:focus .fusion-button-text, .fusion-button.button-4:focus i,.fusion-button.button-4:active .fusion-button-text, .fusion-button.button-4:active{color:#f5f5f5;}.fusion-button.button-4:hover, .fusion-button.button-4:focus, .fusion-button.button-4:active{border-width:0px;border-color:#f5f5f5;}.fusion-button.button-4:hover .fusion-button-icon-divider, .fusion-button.button-4:hover .fusion-button-icon-divider, .fusion-button.button-4:active .fusion-button-icon-divider{border-color:#f5f5f5;}.fusion-button.button-4{background: #607d8b;}.fusion-button.button-4:hover,.button-4:focus,.fusion-button.button-4:active{background: #a0a0a0;}.fusion-button.button-4{width:100%;}</style><a class="fusion-button button-flat fusion-button-square button-xlarge button-custom button-4" target="_self" href="https://accionet.cl/journal/"><span class="fusion-button-text">Ver todas las noticias</span></a></div></div></div><div class="fusion-clearfix"></div>
+
+					</div>
+				</div></div></div><div class="fusion-fullwidth fullwidth-box nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:0px;padding-right:30px;padding-bottom:0px;padding-left:30px;"><div class="fusion-builder-row fusion-row "><div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_1  fusion-one-full fusion-column-first fusion-column-last 1_1" style="margin-top:0px;margin-bottom:20px;">
+					<div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url="">
+						<div class="fusion-clearfix"></div>
+
+					</div>
+				</div></div></div>
+							</div>
+												</div>
+	</section>
+					
+				</div>  <!-- fusion-row -->
+			</main>  <!-- #main -->
+			
+			
+			
+										
+				<div class="fusion-footer">
+						
+	<footer role="contentinfo" class="fusion-footer-widget-area fusion-widget-area fusion-footer-widget-area-center" style="position: relative; z-index: 3;">
+		<div class="fusion-row">
+			<div class="fusion-columns fusion-columns-1 fusion-widget-area">
+				
+																									<div class="fusion-column fusion-column-last col-lg-12 col-md-12 col-sm-12">
+							<section id="media_image-3" class="fusion-footer-widget-column widget widget_media_image"><img width="100" height="100" src="./mapa_files/accionet-logos-02-1.png" class="image wp-image-11814  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" srcset="https://accionet.cl/wp-content/uploads/2017/10/accionet-logos-02-1-66x66.png 66w, https://accionet.cl/wp-content/uploads/2017/10/accionet-logos-02-1.png 100w" sizes="(max-width: 100px) 100vw, 100px"><div style="clear:both;"></div></section>																					</div>
+																																																						
+				<div class="fusion-clearfix"></div>
+			</div> <!-- fusion-columns -->
+		</div> <!-- fusion-row -->
+	</footer> <!-- fusion-footer-widget-area -->
+
+	
+	<footer id="footer" class="fusion-footer-copyright-area fusion-footer-copyright-center" style="position: relative; z-index: 3;">
+		<div class="fusion-row">
+			<div class="fusion-copyright-content">
+
+				<div class="fusion-copyright-notice" style="padding-bottom: 0px;">
+		<div>
+		<span style="font-family: &#39;Montserrat&#39;; letter-spacing: 1px; font-weight: 400;"><script>document.write(new Date().getFullYear());</script>2019 ACCIONET.CL <a href="https://accionet.xn--cl%3Ecomunicacin%20y%20tecnologa%3C-9hd9r/a%3E%20%20%EF%BF%BD%20%7C%20%EF%BF%BD%20%20%20%3C/a%3E%3C/span%3E%3C/div%3E%3C/div%3E%3Cdiv%20class=" fusion-social-links-footer"="">
+	</a><div class="fusion-social-networks boxed-icons"><a href="https://accionet.xn--cl%3Ecomunicacin%20y%20tecnologa%3C-9hd9r/a%3E%20%20%EF%BF%BD%20%7C%20%EF%BF%BD%20%20%20%3C/a%3E%3C/span%3E%3C/div%3E%3C/div%3E%3Cdiv%20class=" fusion-social-links-footer"=""></a><div class="fusion-social-networks-wrapper"><a href="https://accionet.xn--cl%3Ecomunicacin%20y%20tecnologa%3C-9hd9r/a%3E%20%20%EF%BF%BD%20%7C%20%EF%BF%BD%20%20%20%3C/a%3E%3C/span%3E%3C/div%3E%3C/div%3E%3Cdiv%20class=" fusion-social-links-footer"=""></a><a class="fusion-social-network-icon fusion-tooltip fusion-facebook fusion-icon-facebook" style="color:#607d8b;background-color:#ffffff;border-color:#ffffff;border-radius:60px;" href="https://www.facebook.com/accionet.cl/" target="_blank" rel="noopener noreferrer" title="Facebook"><span class="screen-reader-text">Facebook</span></a></div></div></span></div>
+
+			</div> <!-- fusion-fusion-copyright-content -->
+		</div> <!-- fusion-row -->
+	</div></footer> <!-- #footer -->
+				</div> <!-- fusion-footer -->
+			
+								</div> <!-- wrapper -->
+
+								<a class="fusion-one-page-text-link fusion-page-load-link"></a>
+
+		<script>if (document.location.protocol != "https:") {document.location = document.URL.replace(/^http:/i, "https:");}</script><script>if (document.location.protocol != "https:") {document.location = document.URL.replace(/^http:/i, "https:");}</script><script>if (document.location.protocol != "https:") {document.location = document.URL.replace(/^http:/i, "https:");}</script>		<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+						<script type="text/javascript">
+				jQuery( document ).ready( function() {
+					var ajaxurl = 'https://accionet.cl/wp-admin/admin-ajax.php';
+					if ( 0 < jQuery( '.fusion-login-nonce' ).length ) {
+						jQuery.get( ajaxurl, { 'action': 'fusion_login_nonce' }, function( response ) {
+							jQuery( '.fusion-login-nonce' ).html( response );
+						});
+					}
+				});
+				</script>
+				<script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};var tribe_system_info = {"sysinfo_optin_nonce":"570fcd43cf","clipboard_btn_text":"Copy to clipboard","clipboard_copied_text":"System info copied","clipboard_fail_text":"Press \"Cmd + C\" to copy"};/* ]]> */ </script><script type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/accionet.cl\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./mapa_files/scripts.js.descarga"></script>
+<!--[if IE 9]>
+<script type='text/javascript' src='https://accionet.cl/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-ie9.js?ver=1'></script>
+<![endif]-->
+<script type="text/javascript" src="./mapa_files/modernizr.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/jquery.fitvids.js.descarga"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fusionVideoGeneralVars = {"status_vimeo":"1","status_yt":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./mapa_files/fusion-video-general.js.descarga"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fusionLightboxVideoVars = {"lightbox_video_width":"1280","lightbox_video_height":"720"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./mapa_files/jquery.ilightbox.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/jquery.mousewheel.js.descarga"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fusionLightboxVars = {"status_lightbox":"1","lightbox_gallery":"1","lightbox_skin":"metro-white","lightbox_title":"1","lightbox_arrows":"1","lightbox_slideshow_speed":"5000","lightbox_autoplay":"","lightbox_opacity":"0.90","lightbox_desc":"1","lightbox_social":"1","lightbox_deeplinking":"1","lightbox_path":"vertical","lightbox_post_images":"1","lightbox_animation_speed":"Normal"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./mapa_files/fusion-lightbox.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/imagesLoaded.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/isotope.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/packery.js.descarga"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var avadaPortfolioVars = {"lightbox_behavior":"all","infinite_finished_msg":"<em>All items displayed.<\/em>","infinite_blog_text":"<em>Loading the next set of posts...<\/em>","content_break_point":"1024"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./mapa_files/avada-portfolio.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/jquery.infinitescroll.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/avada-faqs.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/Chart.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/fusion-chart.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/jquery.cycle.js.descarga"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fusionTestimonialVars = {"testimonials_speed":"4000"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./mapa_files/fusion-testimonials.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/cssua.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/jquery.waypoints.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/fusion-waypoints.js.descarga"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fusionAnimationsVars = {"disable_mobile_animate_css":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./mapa_files/fusion-animations.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/jquery.countTo.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/jquery.easyPieChart.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/jquery.appear.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/fusion-counters-circle.js.descarga"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fusionRecentPostsVars = {"infinite_loading_text":"<em>Loading the next set of posts...<\/em>","infinite_finished_msg":"<em>All items displayed.<\/em>","slideshow_autoplay":"1","slideshow_speed":"7000","pagination_video_slide":"","status_yt":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./mapa_files/fusion-recent-posts.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/fusion-title.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/fusion-gallery.js.descarga"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fusionEqualHeightVars = {"content_break_point":"1024"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./mapa_files/fusion-equal-heights.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/fusion-content-boxes.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/fusion-events.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/bootstrap.modal.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/fusion-modal.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/jquery.countdown.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/fusion-countdown.js.descarga"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fusionCountersBox = {"counter_box_speed":"1000"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./mapa_files/fusion-counters-box.js.descarga"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fusionMapsVars = {"admin_ajax":"https:\/\/accionet.cl\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./mapa_files/jquery.fusion_maps.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/fusion-google-map.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/jquery.event.move.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/fusion-image-before-after.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/fusion-progress.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/bootstrap.collapse.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/fusion-toggles.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/fusion-flip-boxes.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/fusion-syntax-highlighter.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/jquery.fade.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/jquery.requestAnimationFrame.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/fusion-parallax.js.descarga"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fusionVideoBgVars = {"status_vimeo":"1","status_yt":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./mapa_files/fusion-video-bg.js.descarga"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fusionContainerVars = {"content_break_point":"1024","container_hundred_percent_height_mobile":"0","is_sticky_header_transparent":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./mapa_files/fusion-container.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/bootstrap.transition.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/bootstrap.tab.js.descarga"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fusionTabVars = {"content_break_point":"1024"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./mapa_files/fusion-tabs.js.descarga"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fusionBgImageVars = {"content_break_point":"1024"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./mapa_files/fusion-column-bg-image.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/fusion-column.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/vimeoPlayer.js.descarga"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fusionVideoVars = {"status_vimeo":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./mapa_files/fusion-video.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/jquery.hoverintent.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/avada-vertical-menu-widget.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/bootstrap.tooltip.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/bootstrap.popover.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/jquery.carouFredSel.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/jquery.easing.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/jquery.flexslider.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/jquery.hoverflow.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/jquery.placeholder.min.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/jquery.touchSwipe.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/fusion-alert.js.descarga"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fusionCarouselVars = {"related_posts_speed":"2500","carousel_speed":"2500"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./mapa_files/fusion-carousel.js.descarga"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fusionFlexSliderVars = {"status_vimeo":"1","page_smoothHeight":"false","slideshow_autoplay":"1","slideshow_speed":"7000","pagination_video_slide":"","status_yt":"1","flex_smoothHeight":"false"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./mapa_files/fusion-flexslider.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/fusion-popover.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/fusion-tooltip.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/fusion-sharing-box.js.descarga"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fusionBlogVars = {"infinite_blog_text":"<em>Loading the next set of posts...<\/em>","infinite_finished_msg":"<em>All items displayed.<\/em>","slideshow_autoplay":"1","slideshow_speed":"7000","pagination_video_slide":"","status_yt":"1","lightbox_behavior":"all","blog_pagination_type":"Pagination","flex_smoothHeight":"false"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./mapa_files/fusion-blog.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/fusion-button.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/fusion-general-global.js.descarga"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fusionIe1011Vars = {"form_bg_color":"#ffffff"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./mapa_files/fusion-ie1011.js.descarga"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var avadaHeaderVars = {"header_position":"top","header_layout":"v1","header_sticky":"1","header_sticky_type2_layout":"menu_only","side_header_break_point":"1250","header_sticky_mobile":"0","header_sticky_tablet":"0","mobile_menu_design":"modern","sticky_header_shrinkage":"0","nav_height":"150","nav_highlight_border":"0","nav_highlight_style":"bar","logo_margin_top":"35px","logo_margin_bottom":"25px","layout_mode":"wide","header_padding_top":"0px","header_padding_bottom":"0px","offset_scroll":"full"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./mapa_files/avada-header.js.descarga"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var avadaMenuVars = {"header_position":"Top","logo_alignment":"Left","header_sticky":"1","side_header_break_point":"1250","mobile_menu_design":"modern","dropdown_goto":"Go to...","mobile_nav_cart":"Shopping Cart","mobile_submenu_open":"Open Sub Menu","mobile_submenu_close":"Close Sub Menu","submenu_slideout":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./mapa_files/avada-menu.js.descarga"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fusionScrollToAnchorVars = {"content_break_point":"1024","container_hundred_percent_height_mobile":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./mapa_files/fusion-scroll-to-anchor.js.descarga"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fusionTypographyVars = {"site_width":"1170px","typography_responsive":"","typography_sensitivity":"0.6","typography_factor":"1.5","elements":"h1, h2, h3, h4, h5, h6"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./mapa_files/fusion-responsive-typography.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/bootstrap.scrollspy.js.descarga"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var avadaCommentVars = {"title_style_type":"none","title_margin_top":"0px","title_margin_bottom":"31px"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./mapa_files/avada-comments.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/avada-general-footer.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/avada-quantity.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/avada-scrollspy.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/avada-select.js.descarga"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var avadaSidebarsVars = {"header_position":"top","header_layout":"v1","header_sticky":"1","header_sticky_type2_layout":"menu_only","side_header_break_point":"1250","header_sticky_tablet":"0","sticky_header_shrinkage":"0","nav_height":"150","content_break_point":"1024"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./mapa_files/avada-sidebars.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/jquery.sticky-kit.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/avada-tabs-widget.js.descarga"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var toTopscreenReaderText = {"label":"Go to Top"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./mapa_files/jquery.toTop.js.descarga"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var avadaToTopVars = {"status_totop_mobile":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./mapa_files/avada-to-top.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/avada-drop-down.js.descarga"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var avadaRevVars = {"avada_rev_styles":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./mapa_files/avada-rev-styles.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/avada-contact-form-7.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/avada-events.js.descarga"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var avadaFusionSliderVars = {"side_header_break_point":"1250","slider_position":"below","header_transparency":"1","mobile_header_transparency":"0","header_position":"Top","content_break_point":"1024","status_vimeo":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./mapa_files/avada-fusion-slider.js.descarga"></script>
+<script type="text/javascript" src="./mapa_files/wp-embed.min.js.descarga"></script>
+	
+
+<div class="to-top-container"><a href="https://accionet.cl/#" id="toTop" style="display: block;"><span id="toTopHover"></span><span class="screen-reader-text">Go to Top</span></a></div></body></html>
