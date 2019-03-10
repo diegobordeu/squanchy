@@ -24,6 +24,11 @@ export class AppComponent {
       title: 'Network',
       url: '/network',
       icon: 'wifi'
+    },
+    {
+      title: 'Login',
+      url: '/login',
+      icon: 'login',
     }
   ];
 

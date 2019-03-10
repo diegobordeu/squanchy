@@ -1,0 +1,72 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-menu-button></ion-menu-button>
+    </ion-buttons>
+    <ion-title>
+      Login De Accionet
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+
+
+<ion-content class="login-content" padding>
+  <ion-row class="logo-row">
+    <ion-col></ion-col>
+    <ion-col>
+      <img src="assets/accionet.png"/>
+    </ion-col>
+    <ion-col></ion-col>
+  </ion-row>
+
+  <!-- <form name="form" action="http://localhost:3000/login" method="post">
+    <div class="md-form-group float-label">
+      <input type="text" name="username" required>
+      <label>Usuario</label>
+    </div>
+    <div class="md-form-group float-label">
+      <input type="password"  name="password" required>
+      <label>Contrase&ntilde;a</label>
+    </div>
+    <input type="submit" class="btn primary btn-block p-x-md" value="Ingresar"/>
+  </form> -->
+
+    <ion-card class="welcome-card">
+      <ion-row>
+        <ion-col>
+
+            <ion-list inset>
+
+              <ion-item>
+                <ion-input type="text" placeholder="Usuario" name="username" [(ngModel)]="registerCredentials.username" required></ion-input>
+              </ion-item>
+
+              <ion-item>
+                <ion-input type="password" placeholder="Password" name="password" [(ngModel)]="registerCredentials.password" required></ion-input>
+              </ion-item>
+
+            </ion-list>
+
+        </ion-col>
+      </ion-row>
+
+      <ion-row>
+        <ion-col class="signup-col">
+          <ion-button expand="block" fill="outline" (click)="doLogin()">Logeate</ion-button>
+        </ion-col>
+      </ion-row>
+    </ion-card>
+
+
+
+    <ion-row>
+      <ion-col></ion-col>
+      <ion-col offset="2">
+        <ion-spinner class="login-spinner" name="crescent"></ion-spinner>
+      </ion-col>
+      <ion-col></ion-col>
+    </ion-row>
+
+
+</ion-content>
